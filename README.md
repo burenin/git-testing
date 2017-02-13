@@ -17,3 +17,4 @@ Manual
 
 Other changes
 issue 53 fix
+new 53 issue fix
